@@ -20,3 +20,5 @@ The repository is organized into well-defined sections to make it easy to naviga
 
 
 Output:
+
+![Image](https://github.com/user-attachments/assets/736917d7-5e3a-4e0c-be6d-5d2e639f9f50)
